@@ -1,0 +1,2 @@
+Download link: https://drive.google.com/file/d/1-pNji6imuLHJqe_4_bFjLFqtqKKe9FOg/view?usp=drive_link
+Documentation: https://docs.recognito.vision/id-document-recognition-sdk/integration-guide/linux/sample-application
