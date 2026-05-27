@@ -37,7 +37,7 @@ RECOGNITO ID Document Recognition SDK is covering 14,000+ identity documents fro
 ## <img src="https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/05f9ac6c-1224-46a9-8c74-04b8f8cfe5ab" alt="face recognition, liveness detection android SDK API" width="25">  Run Demo
 To integrate the Recognito SDK in your web server, follow these steps:
 #### 1. Download Demo Source 
-- [**ID_SDK.zip**](https://www.dropbox.com/scl/fi/2cfmyjmzhncsqjqy5tdv4/ID_SDK.zip?rlkey=o3wn5hin2hud0idx47benc2xv&st=e1rd7bv4&dl=0)
+- [**ID_SDK.zip**](https://www.dropbox.com/scl/fi/2cfmyjmzhncsqjqy5tdv4/ID_SDK.zip?rlkey=o3wn5hin2hud0idx47benc2xv&st=p5shq37x&dl=0)
 
 #### 2. Application License (One-Time License)
 - For trial license, contact us.
